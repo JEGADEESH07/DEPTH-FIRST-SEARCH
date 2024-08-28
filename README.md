@@ -127,7 +127,8 @@ print("BFS Traversal Path:", traversed_path)
 
 <h3>Output:</h3>
 
-![output](/3.1.png)
+![output](/![image](https://github.com/user-attachments/assets/a8c65dc0-d208-4fba-bff2-60d8790ab703)
+)
 <hr>
 <h3>Sample Input</h3>
 <hr>
@@ -182,7 +183,8 @@ print("BFS Traversal Path:", traversed_path)
 ```
 <h3>Output:</h3>
 
-![output](/3.2.png)
+![output](![image](https://github.com/user-attachments/assets/aa1c8cb7-f919-4902-aef2-77c1f49b6170)
+)
 
 <h3>Result:</h3>
 <hr>
